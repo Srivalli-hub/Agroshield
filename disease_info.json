@@ -1,0 +1,245 @@
+{
+  "Apple___Apple_scab": {
+    "severity": "Moderate",
+    "advice_en": "Remove and destroy fallen leaves in autumn to reduce spore source. Apply fungicide (captan or myclobutanil) starting at bud break, repeating every 7-10 days during wet weather. Prune trees for better air circulation.",
+    "advice_hi": "बीजाणु स्रोत कम करने के लिए शरद ऋतु में गिरी पत्तियों को हटाकर नष्ट करें। कली फूटने पर फफूंदनाशक (कैप्टान या मायक्लोबुटानिल) का प्रयोग शुरू करें, गीले मौसम में हर 7-10 दिन में दोहराएं।",
+    "advice_mr": "बीजाणू स्रोत कमी करण्यासाठी शरद ऋतूत पडलेली पाने काढून नष्ट करा. कळी फुटताना बुरशीनाशक (कॅप्टन किंवा मायक्लोब्युटॅनिल) वापरणे सुरू करा, ओल्या हवामानात दर ७-१० दिवसांनी पुन्हा करा."
+  },
+  "Apple___Black_rot": {
+    "severity": "High",
+    "advice_en": "Prune out dead/diseased wood and cankers during dormant season. Remove mummified fruit from tree and ground. Apply fungicide sprays from pink bud stage through harvest.",
+    "advice_hi": "सुप्त मौसम के दौरान मृत/रोगग्रस्त लकड़ी और कैंकर को काट दें। पेड़ और जमीन से ममीकृत फल हटाएं। गुलाबी कली अवस्था से कटाई तक फफूंदनाशक स्प्रे करें।",
+    "advice_mr": "सुप्त हंगामात मृत/रोगट लाकूड आणि कॅन्कर कापून टाका. झाड आणि जमिनीवरून ममीकृत फळे काढा. गुलाबी कळी अवस्थेपासून कापणीपर्यंत बुरशीनाशक फवारणी करा."
+  },
+  "Apple___Cedar_apple_rust": {
+    "severity": "Moderate",
+    "advice_en": "Remove nearby cedar/juniper trees if feasible, as they host this fungus. Apply fungicide (myclobutanil) from pink bud stage every 7-10 days until 2 weeks after petal fall.",
+    "advice_hi": "यदि संभव हो तो पास के सीडर/जुनिपर पेड़ों को हटाएं, क्योंकि वे इस फफूंद के मेजबान हैं। गुलाबी कली अवस्था से हर 7-10 दिन में फफूंदनाशक (मायक्लोबुटानिल) लगाएं।",
+    "advice_mr": "शक्य असल्यास जवळील सीडर/जुनिपर झाडे काढा, कारण ते या बुरशीचे यजमान आहेत. गुलाबी कळी अवस्थेपासून दर ७-१० दिवसांनी बुरशीनाशक (मायक्लोब्युटॅनिल) वापरा."
+  },
+  "Apple___healthy": {
+    "severity": "None",
+    "advice_en": "No disease detected. Continue regular monitoring, balanced fertilization, and standard orchard care.",
+    "advice_hi": "कोई रोग नहीं पाया गया। नियमित निगरानी और मानक बाग देखभाल जारी रखें।",
+    "advice_mr": "कोणताही रोग आढळला नाही. नियमित निरीक्षण आणि मानक बाग काळजी सुरू ठेवा."
+  },
+  "Blueberry___healthy": {
+    "severity": "None",
+    "advice_en": "No disease detected. Maintain regular watering, acidic soil pH (4.5-5.5), and monitor periodically.",
+    "advice_hi": "कोई रोग नहीं पाया गया। नियमित सिंचाई और अम्लीय मिट्टी पीएच बनाए रखें।",
+    "advice_mr": "कोणताही रोग आढळला नाही. नियमित पाणी आणि आम्लयुक्त माती pH राखा."
+  },
+  "Cherry_(including_sour)___Powdery_mildew": {
+    "severity": "Moderate",
+    "advice_en": "Apply sulfur-based or potassium bicarbonate fungicide at first sign. Improve air circulation via pruning. Avoid excess nitrogen fertilizer which promotes susceptible new growth.",
+    "advice_hi": "पहले संकेत पर सल्फर आधारित फफूंदनाशक का प्रयोग करें। छंटाई के माध्यम से हवा के प्रवाह में सुधार करें।",
+    "advice_mr": "पहिल्या लक्षणावर सल्फरयुक्त बुरशीनाशक वापरा. छाटणीद्वारे हवा खेळती ठेवा."
+  },
+  "Cherry_(including_sour)___healthy": {
+    "severity": "None",
+    "advice_en": "No disease detected. Continue regular monitoring and standard orchard care.",
+    "advice_hi": "कोई रोग नहीं पाया गया। नियमित निगरानी जारी रखें।",
+    "advice_mr": "कोणताही रोग आढळला नाही. नियमित निरीक्षण सुरू ठेवा."
+  },
+  "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+    "severity": "Moderate",
+    "advice_en": "Rotate crops with non-host plants for at least one season. Apply foliar fungicide (strobilurin or triazole) if disease appears before tasseling. Choose resistant hybrids next season.",
+    "advice_hi": "कम से कम एक सीजन के लिए गैर-मेजबान पौधों के साथ फसल चक्र अपनाएं। टैसलिंग से पहले रोग दिखने पर फफूंदनाशक लगाएं।",
+    "advice_mr": "किमान एक हंगामासाठी गैर-यजमान पिकांसह पीक फेरपालट करा. टॅसलिंगपूर्वी रोग दिसल्यास बुरशीनाशक वापरा."
+  },
+  "Corn_(maize)___Common_rust_": {
+    "severity": "Moderate",
+    "advice_en": "Apply fungicide containing azoxystrobin or propiconazole if severity is high and plants are young. Plant rust-resistant hybrid varieties next season.",
+    "advice_hi": "गंभीरता अधिक होने पर एज़ोक्सीस्ट्रोबिन या प्रोपिकोनाज़ोल युक्त फफूंदनाशक लगाएं। अगले सीजन में रस्ट-प्रतिरोधी किस्में लगाएं।",
+    "advice_mr": "तीव्रता जास्त असल्यास अझोक्सिस्ट्रोबिन किंवा प्रोपिकोनाझोलयुक्त बुरशीनाशक वापरा. पुढील हंगामात रस्ट-प्रतिरोधक जाती लावा.",
+    "local_name_hi": "मक्का रतुआ",
+    "local_name_mr": "मका तांबेरा",
+    "cost_estimate_inr": "250-500 per acre (fungicide only)"
+  },
+  "Corn_(maize)___Northern_Leaf_Blight": {
+    "severity": "High",
+    "advice_en": "Apply foliar fungicide at first sign, especially if weather is humid. Rotate with non-host crops. Use resistant hybrid seed varieties in future planting.",
+    "advice_hi": "पहले संकेत पर पत्ती फफूंदनाशक लगाएं, विशेष रूप से नम मौसम में। गैर-मेजबान फसलों के साथ फसल चक्र अपनाएं।",
+    "advice_mr": "पहिल्या लक्षणावर पानांवरील बुरशीनाशक वापरा, विशेषतः दमट हवामानात. गैर-यजमान पिकांसह फेरपालट करा."
+  },
+  "Corn_(maize)___healthy": {
+    "severity": "None",
+    "advice_en": "No disease detected. Continue regular monitoring and standard field care.",
+    "advice_hi": "कोई रोग नहीं पाया गया। नियमित निगरानी जारी रखें।",
+    "advice_mr": "कोणताही रोग आढळला नाही. नियमित निरीक्षण सुरू ठेवा."
+  },
+  "Grape___Black_rot": {
+    "severity": "High",
+    "advice_en": "Remove mummified berries and infected leaves promptly. Apply fungicide (mancozeb or myclobutanil) starting at bud break, continuing through the season on a 10-14 day schedule.",
+    "advice_hi": "ममीकृत जामुन और संक्रमित पत्तियों को तुरंत हटाएं। कली फूटने पर फफूंदनाशक लगाना शुरू करें।",
+    "advice_mr": "ममीकृत द्राक्षे आणि संक्रमित पाने त्वरित काढा. कळी फुटताना बुरशीनाशक वापरणे सुरू करा."
+  },
+  "Grape___Esca_(Black_Measles)": {
+    "severity": "High",
+    "advice_en": "No fully effective chemical cure exists — prune out and destroy infected wood during dormant season. Avoid large pruning wounds during wet weather. Consider trunk renewal for valuable vines.",
+    "advice_hi": "कोई पूर्ण प्रभावी रासायनिक इलाज उपलब्ध नहीं है — सुप्त मौसम में संक्रमित लकड़ी को काटकर नष्ट करें।",
+    "advice_mr": "कोणताही पूर्ण प्रभावी रासायनिक उपचार उपलब्ध नाही — सुप्त हंगामात संक्रमित लाकूड कापून नष्ट करा."
+  },
+  "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+    "severity": "Moderate",
+    "advice_en": "Apply copper-based fungicide at first symptoms. Remove and destroy affected leaves. Improve canopy air circulation through proper pruning.",
+    "advice_hi": "पहले लक्षणों पर कॉपर आधारित फफूंदनाशक लगाएं। प्रभावित पत्तियों को हटाकर नष्ट करें।",
+    "advice_mr": "पहिल्या लक्षणांवर कॉपरयुक्त बुरशीनाशक वापरा. प्रभावित पाने काढून नष्ट करा."
+  },
+  "Grape___healthy": {
+    "severity": "None",
+    "advice_en": "No disease detected. Continue regular monitoring and standard vineyard care.",
+    "advice_hi": "कोई रोग नहीं पाया गया। नियमित निगरानी जारी रखें।",
+    "advice_mr": "कोणताही रोग आढळला नाही. नियमित निरीक्षण सुरू ठेवा."
+  },
+  "Orange___Haunglongbing_(Citrus_greening)": {
+    "severity": "High",
+    "advice_en": "No cure exists once infected — remove and destroy infected trees promptly to prevent spread. Control the Asian citrus psyllid insect vector with approved insecticides. Use certified disease-free planting material.",
+    "advice_hi": "संक्रमित होने पर कोई इलाज नहीं है — फैलाव रोकने के लिए संक्रमित पेड़ों को तुरंत हटाकर नष्ट करें। एशियाई साइट्रस साइलिड कीट को नियंत्रित करें।",
+    "advice_mr": "संक्रमित झाल्यावर कोणताही उपचार नाही — प्रसार रोखण्यासाठी संक्रमित झाडे त्वरित काढून नष्ट करा. आशियाई सायट्रस सायलिड किडीवर नियंत्रण ठेवा."
+  },
+  "Peach___Bacterial_spot": {
+    "severity": "Moderate",
+    "advice_en": "Apply copper-based bactericide sprays during dormant season and early growing season. Avoid overhead irrigation. Plant resistant varieties where available.",
+    "advice_hi": "सुप्त मौसम और शुरुआती बढ़ते मौसम के दौरान कॉपर आधारित जीवाणुनाशक स्प्रे लगाएं। ऊपर से सिंचाई से बचें।",
+    "advice_mr": "सुप्त हंगामात आणि सुरुवातीच्या वाढीच्या हंगामात कॉपरयुक्त जीवाणूनाशक फवारणी करा. वरून सिंचन टाळा."
+  },
+  "Peach___healthy": {
+    "severity": "None",
+    "advice_en": "No disease detected. Continue regular monitoring and standard orchard care.",
+    "advice_hi": "कोई रोग नहीं पाया गया। नियमित निगरानी जारी रखें।",
+    "advice_mr": "कोणताही रोग आढळला नाही. नियमित निरीक्षण सुरू ठेवा."
+  },
+  "Pepper,_bell___Bacterial_spot": {
+    "severity": "Moderate",
+    "advice_en": "Apply copper-based bactericide at first sign. Avoid working in fields when foliage is wet. Use drip irrigation instead of overhead watering. Rotate crops.",
+    "advice_hi": "पहले संकेत पर कॉपर आधारित जीवाणुनाशक लगाएं। पत्तियां गीली होने पर खेत में काम करने से बचें।",
+    "advice_mr": "पहिल्या लक्षणावर कॉपरयुक्त जीवाणूनाशक वापरा. पाने ओली असताना शेतात काम करणे टाळा."
+  },
+  "Pepper,_bell___healthy": {
+    "severity": "None",
+    "advice_en": "No disease detected. Continue regular monitoring and standard care.",
+    "advice_hi": "कोई रोग नहीं पाया गया। नियमित निगरानी जारी रखें।",
+    "advice_mr": "कोणताही रोग आढळला नाही. नियमित निरीक्षण सुरू ठेवा."
+  },
+  "Potato___Early_blight": {
+    "severity": "Moderate",
+    "advice_en": "Remove infected foliage. Apply fungicide (chlorothalonil or mancozeb). Ensure proper plant spacing for airflow. Avoid excess nitrogen fertilizer.",
+    "advice_hi": "संक्रमित पत्तियों को हटाएं। फफूंदनाशक (क्लोरोथैलोनिल या मैंकोजेब) का प्रयोग करें।",
+    "advice_mr": "संक्रमित पाने काढून टाका. बुरशीनाशक (क्लोरोथॅलोनिल किंवा मॅन्कोझेब) वापरा.",
+    "local_name_hi": "आलू अगेती झुलसा",
+    "local_name_mr": "बटाटा लवकर करपा",
+    "cost_estimate_inr": "150-400 per acre (fungicide only)"
+  },
+  "Potato___Late_blight": {
+    "severity": "High",
+    "advice_en": "Destroy severely infected plants to stop spread. Apply systemic fungicide immediately. Avoid working in fields when foliage is wet.",
+    "advice_hi": "फैलाव रोकने के लिए गंभीर रूप से संक्रमित पौधों को नष्ट करें। तुरंत सिस्टमिक फफूंदनाशक लगाएं।",
+    "advice_mr": "प्रसार थांबवण्यासाठी गंभीर संक्रमित रोपे नष्ट करा. त्वरित सिस्टेमिक बुरशीनाशक वापरा.",
+    "local_name_hi": "आलू पछेती झुलसा",
+    "local_name_mr": "बटाटा उशिरा करपा",
+    "cost_estimate_inr": "300-600 per acre (fungicide only)"
+  },
+  "Potato___healthy": {
+    "severity": "None",
+    "advice_en": "No disease detected. Continue regular monitoring and standard care.",
+    "advice_hi": "कोई रोग नहीं पाया गया। नियमित निगरानी जारी रखें।",
+    "advice_mr": "कोणताही रोग आढळला नाही. नियमित निरीक्षण सुरू ठेवा."
+  },
+  "Raspberry___healthy": {
+    "severity": "None",
+    "advice_en": "No disease detected. Continue regular monitoring and standard care.",
+    "advice_hi": "कोई रोग नहीं पाया गया। नियमित निगरानी जारी रखें।",
+    "advice_mr": "कोणताही रोग आढळला नाही. नियमित निरीक्षण सुरू ठेवा."
+  },
+  "Soybean___healthy": {
+    "severity": "None",
+    "advice_en": "No disease detected. Continue regular monitoring and standard field care.",
+    "advice_hi": "कोई रोग नहीं पाया गया। नियमित निगरानी जारी रखें।",
+    "advice_mr": "कोणताही रोग आढळला नाही. नियमित निरीक्षण सुरू ठेवा."
+  },
+  "Squash___Powdery_mildew": {
+    "severity": "Moderate",
+    "advice_en": "Apply sulfur or potassium bicarbonate fungicide at first sign. Improve air circulation by proper spacing. Water at the base, avoid wetting leaves.",
+    "advice_hi": "पहले संकेत पर सल्फर फफूंदनाशक लगाएं। उचित दूरी से हवा के प्रवाह में सुधार करें।",
+    "advice_mr": "पहिल्या लक्षणावर सल्फर बुरशीनाशक वापरा. योग्य अंतराने हवा खेळती ठेवा."
+  },
+  "Strawberry___Leaf_scorch": {
+    "severity": "Moderate",
+    "advice_en": "Remove and destroy infected leaves after harvest. Apply fungicide (captan or myclobutanil) during the growing season. Ensure good air circulation between plants.",
+    "advice_hi": "कटाई के बाद संक्रमित पत्तियों को हटाकर नष्ट करें। बढ़ते मौसम के दौरान फफूंदनाशक लगाएं।",
+    "advice_mr": "कापणीनंतर संक्रमित पाने काढून नष्ट करा. वाढीच्या हंगामात बुरशीनाशक वापरा."
+  },
+  "Strawberry___healthy": {
+    "severity": "None",
+    "advice_en": "No disease detected. Continue regular monitoring and standard care.",
+    "advice_hi": "कोई रोग नहीं पाया गया। नियमित निगरानी जारी रखें।",
+    "advice_mr": "कोणताही रोग आढळला नाही. नियमित निरीक्षण सुरू ठेवा."
+  },
+  "Tomato___Bacterial_spot": {
+    "severity": "Moderate",
+    "advice_en": "Apply copper-based bactericide at first sign. Avoid overhead watering and working with wet plants. Rotate crops and use certified disease-free seed.",
+    "advice_hi": "पहले संकेत पर कॉपर आधारित जीवाणुनाशक लगाएं। ऊपर से पानी देने से बचें।",
+    "advice_mr": "पहिल्या लक्षणावर कॉपरयुक्त जीवाणूनाशक वापरा. वरून पाणी देणे टाळा."
+  },
+  "Tomato___Early_blight": {
+    "severity": "Moderate",
+    "advice_en": "Remove and destroy infected lower leaves. Apply a copper-based or chlorothalonil fungicide every 7-10 days. Avoid overhead watering; water at the base instead. Rotate crops next season.",
+    "advice_hi": "संक्रमित निचली पत्तियों को हटाकर नष्ट करें। हर 7-10 दिन में कॉपर आधारित फफूंदनाशक का छिड़काव करें।",
+    "advice_mr": "संक्रमित खालच्या पानांना काढून नष्ट करा. दर ७-१० दिवसांनी कॉपरयुक्त बुरशीनाशक फवारणी करा.",
+    "local_name_hi": "टमाटर अगेती झुलसा",
+    "local_name_mr": "टोमॅटो लवकर करपा",
+    "cost_estimate_inr": "150-400 per acre (fungicide only)"
+  },
+  "Tomato___Late_blight": {
+    "severity": "High",
+    "advice_en": "Act fast — this spreads quickly. Remove infected plants entirely if severe. Apply fungicides containing mancozeb or copper oxychloride. Improve field drainage and air circulation.",
+    "advice_hi": "यह तेजी से फैलता है — तुरंत कार्रवाई करें। गंभीर होने पर संक्रमित पौधों को पूरी तरह हटा दें।",
+    "advice_mr": "हे वेगाने पसरते — त्वरित कारवाई करा. गंभीर असल्यास संक्रमित रोपे पूर्णपणे काढून टाका.",
+    "local_name_hi": "टमाटर पछेती झुलसा",
+    "local_name_mr": "टोमॅटो उशिरा करपा",
+    "cost_estimate_inr": "300-600 per acre (fungicide only)"
+  },
+  "Tomato___Leaf_Mold": {
+    "severity": "Moderate",
+    "advice_en": "Improve greenhouse/field ventilation to reduce humidity. Apply fungicide (chlorothalonil) at first sign. Avoid overhead watering and remove lower infected leaves.",
+    "advice_hi": "नमी कम करने के लिए वेंटिलेशन में सुधार करें। पहले संकेत पर फफूंदनाशक लगाएं।",
+    "advice_mr": "आर्द्रता कमी करण्यासाठी वायुविजन सुधारा. पहिल्या लक्षणावर बुरशीनाशक वापरा."
+  },
+  "Tomato___Septoria_leaf_spot": {
+    "severity": "Moderate",
+    "advice_en": "Remove infected lower leaves immediately. Apply fungicide (chlorothalonil or copper-based). Mulch around plants to prevent soil splash onto leaves.",
+    "advice_hi": "संक्रमित निचली पत्तियों को तुरंत हटाएं। फफूंदनाशक लगाएं। पत्तियों पर मिट्टी के छींटे रोकने के लिए मल्च करें।",
+    "advice_mr": "संक्रमित खालची पाने त्वरित काढा. बुरशीनाशक वापरा. पानांवर माती उडू नये म्हणून आच्छादन करा."
+  },
+  "Tomato___Spider_mites Two-spotted_spider_mite": {
+    "severity": "Moderate",
+    "advice_en": "Spray plants with water to dislodge mites, or apply insecticidal soap/neem oil. Introduce predatory mites as biological control if available. Avoid excess dust and drought stress on plants.",
+    "advice_hi": "घुनों को हटाने के लिए पौधों पर पानी का छिड़काव करें, या कीटनाशक साबुन/नीम तेल लगाएं।",
+    "advice_mr": "किडे काढण्यासाठी रोपांवर पाणी फवारा, किंवा कीटकनाशक साबण/निंबोळी तेल वापरा."
+  },
+  "Tomato___Target_Spot": {
+    "severity": "Moderate",
+    "advice_en": "Apply fungicide (chlorothalonil or azoxystrobin) at first sign. Remove infected plant debris. Ensure good air circulation through proper spacing and pruning.",
+    "advice_hi": "पहले संकेत पर फफूंदनाशक लगाएं। संक्रमित पौध अवशेष हटाएं।",
+    "advice_mr": "पहिल्या लक्षणावर बुरशीनाशक वापरा. संक्रमित रोपांचे अवशेष काढा."
+  },
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+    "severity": "High",
+    "advice_en": "No cure exists once infected — remove and destroy infected plants to prevent spread. Control whitefly populations (the virus's insect vector) with approved insecticides or sticky traps. Use resistant varieties next season.",
+    "advice_hi": "संक्रमित होने पर कोई इलाज नहीं है — फैलाव रोकने के लिए संक्रमित पौधों को हटाकर नष्ट करें। सफेद मक्खी को नियंत्रित करें।",
+    "advice_mr": "संक्रमित झाल्यावर कोणताही उपचार नाही — प्रसार रोखण्यासाठी संक्रमित रोपे काढून नष्ट करा. पांढरी माशी नियंत्रित करा."
+  },
+  "Tomato___Tomato_mosaic_virus": {
+    "severity": "High",
+    "advice_en": "No cure exists — remove and destroy infected plants immediately. Wash hands and disinfect tools between plants to prevent mechanical spread. Use resistant seed varieties and avoid tobacco use near plants.",
+    "advice_hi": "कोई इलाज नहीं है — संक्रमित पौधों को तुरंत हटाकर नष्ट करें। पौधों के बीच हाथ धोएं और औजारों को कीटाणुरहित करें।",
+    "advice_mr": "कोणताही उपचार नाही — संक्रमित रोपे त्वरित काढून नष्ट करा. रोपांदरम्यान हात धुवा आणि साधने निर्जंतुक करा."
+  },
+  "Tomato___healthy": {
+    "severity": "None",
+    "advice_en": "No disease detected. Continue regular monitoring and standard care.",
+    "advice_hi": "कोई रोग नहीं पाया गया। नियमित निगरानी और सामान्य देखभाल जारी रखें।",
+    "advice_mr": "कोणताही रोग आढळला नाही. नियमित निरीक्षण आणि सामान्य काळजी सुरू ठेवा."
+  }
+}
